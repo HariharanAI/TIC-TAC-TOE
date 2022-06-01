@@ -1,2 +1,2 @@
 # TIC-TAC-TOE
-This ia a Tic Tac Toe done in Python
+This is a Tic Tac Toe done in Python
